@@ -28,5 +28,9 @@
   "app_glow": false,
   "glow_style": "off",
   "focus_overshoot": false,
-  "advanced_effects": true
+  "advanced_effects": true,
+  "matrix_intro": true,
+  "matrix_intro_seconds": 5,
+  "matrix_intro_color": "#B52239",
+  "matrix_intro_speed": 0.85
 }
