@@ -1,10 +1,15 @@
-# Red Rain Matrix: a power-on intro for the CleanYourTV launcher
+# Red Rain Matrix: the Red Rain theme plus a falling Matrix-code intro
 
-A fork of [CleanYourTV](https://github.com/Gathin23/cleanyourtv)'s launcher that adds one thing: a few seconds of
-red "digital rain", a fan-made replica of the falling code from The Matrix, every time the TV wakes from standby
-and on the first Home after a boot, then Home. It ships with the `red-rain-matrix` theme: the same rain frozen as
-the wallpaper, the cinematic frosted-glass dock and the clock screensaver over the rain, so the intro fades into
-a Home that looks like its last frame.
+The full version of the theme, on a fork of [CleanYourTV](https://github.com/Gathin23/cleanyourtv)'s launcher. Every
+time the TV wakes from standby, and on the first Home after a boot, it plays a few seconds of red "digital rain", a
+fan-made replica of the falling code from The Matrix, and fades into a Home that looks like the intro's last frame.
+
+| | [Red Rain](https://github.com/Gathin23/cleanyourtv/tree/main/themes/red-rain) in CleanYourTV | Red Rain Matrix in this fork |
+|---|---|---|
+| Rain as the wallpaper, frosted-glass dock, clock screensaver | Yes | Yes |
+| Falling-code intro on wake and boot | No | **Yes** |
+| Launcher | CleanYourTV's | This fork's |
+| Theme folder | `themes/red-rain` | `themes/red-rain-matrix` |
 
 ![The TV waking from standby: the rain, then Home](docs/matrix-intro/intro.gif)
 
