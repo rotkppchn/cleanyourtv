@@ -6,6 +6,11 @@ and on the first Home after a boot, then Home. It ships with the `red-rain-matri
 the wallpaper, the cinematic frosted-glass dock and the clock screensaver over the rain, so the intro fades into
 a Home that looks like its last frame.
 
+![The TV waking from standby: the rain, then Home](docs/matrix-intro/intro.gif)
+
+Recorded on the TV itself ([MP4](docs/matrix-intro/intro.mp4)). Recording costs the TV most of its frame rate: this is
+about 15 fps at 960x540, while the intro alone runs at 45 to 55 fps.
+
 | Intro (TV waking up) | Home | Clock screensaver |
 |---|---|---|
 | ![The intro: red katakana, letters and digits falling from the top](docs/matrix-intro/intro.jpg) | ![Home with the red-rain-matrix theme](docs/matrix-intro/home.jpg) | ![The clock screensaver over the rain](docs/matrix-intro/clock.jpg) |
